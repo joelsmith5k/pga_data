@@ -1,49 +1,49 @@
 {
-  "TournamentID": 450,
-  "Name": "Wyndham Championship",
-  "StartDate": "2021-08-12T00:00:00",
-  "EndDate": "2021-08-15T00:00:00",
-  "IsOver": true,
+  "TournamentID": 462,
+  "Name": "Fortinet Championship",
+  "StartDate": "2021-09-16T00:00:00",
+  "EndDate": "2021-09-19T00:00:00",
+  "IsOver": false,
   "IsInProgress": false,
-  "Venue": "Sedgefield Country Club",
-  "Location": "Greensboro, NC",
-  "Par": 70,
-  "Yards": 7131,
-  "Purse": 6400000.0,
-  "StartDateTime": "2021-08-12T06:50:00",
+  "Venue": "Silverado Resort and Spa (North Course)",
+  "Location": "Napa, CA",
+  "Par": 72,
+  "Yards": 7166,
+  "Purse": null,
+  "StartDateTime": null,
   "Canceled": false,
   "Covered": true,
-  "City": "Greensboro",
-  "State": "NC",
+  "City": "Napa",
+  "State": "CA",
   "ZipCode": null,
   "Country": "USA",
-  "TimeZone": "America/New York",
+  "TimeZone": "America/Los Angeles",
   "Format": "Stroke",
-  "SportRadarTournamentID": "9e7709c3-0dbe-40a2-b8fc-1e660d688688",
+  "SportRadarTournamentID": "",
   "Rounds": [
     {
-      "TournamentID": 450,
-      "RoundID": 11724,
+      "TournamentID": 462,
+      "RoundID": 15427,
       "Number": 1,
-      "Day": "2021-08-12T00:00:00"
+      "Day": "2021-09-16T00:00:00"
     },
     {
-      "TournamentID": 450,
-      "RoundID": 11725,
+      "TournamentID": 462,
+      "RoundID": 15428,
       "Number": 2,
-      "Day": "2021-08-13T00:00:00"
+      "Day": "2021-09-17T00:00:00"
     },
     {
-      "TournamentID": 450,
-      "RoundID": 11726,
+      "TournamentID": 462,
+      "RoundID": 15429,
       "Number": 3,
-      "Day": "2021-08-14T00:00:00"
+      "Day": "2021-09-18T00:00:00"
     },
     {
-      "TournamentID": 450,
-      "RoundID": 11727,
+      "TournamentID": 462,
+      "RoundID": 15430,
       "Number": 4,
-      "Day": "2021-08-15T00:00:00"
+      "Day": "2021-09-19T00:00:00"
     }
   ]
 }
