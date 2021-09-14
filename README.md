@@ -1,2 +1,2 @@
 # pga_data
-Simple API for select golf stats pulled from web and modified.
+JSON files for a simple API built with a Python script using data from sportsdata.io
