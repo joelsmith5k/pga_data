@@ -1,0 +1,49 @@
+{
+  "TournamentID": 462,
+  "Name": "Fortinet Championship",
+  "StartDate": "2021-09-16T00:00:00",
+  "EndDate": "2021-09-19T00:00:00",
+  "IsOver": false,
+  "IsInProgress": false,
+  "Venue": "Silverado Resort and Spa (North Course)",
+  "Location": "Napa, CA",
+  "Par": 72,
+  "Yards": 7166,
+  "Purse": null,
+  "StartDateTime": null,
+  "Canceled": false,
+  "Covered": true,
+  "City": "Napa",
+  "State": "CA",
+  "ZipCode": null,
+  "Country": "USA",
+  "TimeZone": "America/Los Angeles",
+  "Format": "Stroke",
+  "SportRadarTournamentID": "",
+  "Rounds": [
+    {
+      "TournamentID": 462,
+      "RoundID": 15427,
+      "Number": 1,
+      "Day": "2021-09-16T00:00:00"
+    },
+    {
+      "TournamentID": 462,
+      "RoundID": 15428,
+      "Number": 2,
+      "Day": "2021-09-17T00:00:00"
+    },
+    {
+      "TournamentID": 462,
+      "RoundID": 15429,
+      "Number": 3,
+      "Day": "2021-09-18T00:00:00"
+    },
+    {
+      "TournamentID": 462,
+      "RoundID": 15430,
+      "Number": 4,
+      "Day": "2021-09-19T00:00:00"
+    }
+  ]
+}
